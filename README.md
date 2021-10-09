@@ -18,9 +18,9 @@ It manages the following conversions: `cspdiuxX%`
 • `%X` print a number in hexadecimal (base 16), with uppercase.  
 • `%%` print a percent sign.  
 
-Also it manages any combination of the following flags: `-0.` and minimum field width with all conversions.
+Also, it manages any combination of the following flags: `-0.` and minimum field width with all conversions.
 
-File `main.c` contains some examples that shows how my ft_printf works.
+File `main.c` contains some examples that show how my ft_printf works.
 
 To compile:
 1. git clone `git@github.com:Ollietani/Push_swap_21.git`
